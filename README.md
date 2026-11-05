@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SearchDemonSlayerAPI
 
 Aplicação simples desenvolvida em C# com .NET 10 e Blazor WebAssembly para consumir a API de Demon Slayer.
@@ -35,3 +36,6 @@ Acesse o endereço informado pelo terminal.
 Documentação: https://www.demonslayer-api.com/documentation
 
 Endpoint: https://www.demonslayer-api.com/api/v1/characters?page=1
+=======
+# Search-Demon-Slayer-API
+>>>>>>> 10d8ca955a42b8e0dff84af00b1e2f99716fb104
