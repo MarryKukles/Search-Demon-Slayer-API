@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SearchDemonSlayerAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a9b5b9ba6925156c4aa65b1d4a2ede7cc6167a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SearchDemonSlayerAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SearchDemonSlayerAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
